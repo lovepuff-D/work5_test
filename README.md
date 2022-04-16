@@ -1,4 +1,13 @@
-# work5
+# Статичная вёрстка для тестового задания Vue.js
+<b>Макет адаптирован</b><br>
+- Используемые технологии: VUE CLI, GIT, VUE.JS, BOOTSTRAP 5 (scss)
+- Ссылка на результат [Клик](https://lovepuff-d.github.io/work5_test/)
+<br>
+
+
+
+
+
 
 ## Project setup
 ```
